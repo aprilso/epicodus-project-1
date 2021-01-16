@@ -1,5 +1,6 @@
 body {
   margin:30px;
+  background-color:azure; 
 }
 
 img {
@@ -13,4 +14,12 @@ img {
   border: 1px solid black; 
   padding: 10px;
   box-sizing: border-box;
+}
+
+.myspace {
+  color:blue;
+}
+
+.xanga {
+  color: red;
 }
