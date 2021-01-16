@@ -3,6 +3,7 @@
 ## By April Soetarman
 
 ## Description of program
+This is a basic portfolio landing page website, styled with HTML and CSS. 
 
 ## Program setup instructions
 
