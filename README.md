@@ -22,5 +22,5 @@ To setup:
 https://aprilso.github.io/epicodus-project-1/
 
 ## Copyright and license info
-MIT
+MIT license
 Copyright (c)2021 April Soetarman
