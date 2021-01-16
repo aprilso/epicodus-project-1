@@ -6,7 +6,9 @@
 This is a basic portfolio landing page website, styled with HTML and CSS. 
 
 ## Program setup instructions
+Access the Github pages site in your preferred browser. 
 
-## Link to site and github pages
+## Github pages website
+https://aprilso.github.io/epicodus-project-1/
 
 ## Copyright and license info 
