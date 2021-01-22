@@ -11,6 +11,10 @@ img {
   height: 300px;
 }
 
+.spacingblock {
+  margin-bottom: 2em;
+}
+
 .column {
   width: 46%;
   float: left;
